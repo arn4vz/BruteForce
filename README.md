@@ -12,7 +12,11 @@ git clone https://github.com/arn4vz/BruteForce
 cd BruteForce
 python Bruteforce.py
 
+--------------------------------------
+
 You Can Edit "Passwords.txt" according to account's Username 
+
+--------------------------------------
 
 this file is made by https://t.me/ARN4V_18 
 
