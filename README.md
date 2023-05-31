@@ -9,7 +9,9 @@ Ans - brute force attack is a hacking method that uses trial and error to crack 
 Commands 📧
 
 git clone https://github.com/arn4vz/BruteForce
+
 cd BruteForce
+
 python Bruteforce.py
 
 --------------------------------------
